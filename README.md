@@ -96,7 +96,6 @@ No inputs.
 
 
 # Personal notes
-arn:aws:iam::139180536583:user/dafuemu
 
 login into the right aws account:
 
